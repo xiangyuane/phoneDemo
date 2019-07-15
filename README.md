@@ -1,6 +1,6 @@
 # xiang2019
 
-> 测试
+> 移动端商城类
 
 ## Build Setup
 
